@@ -1,0 +1,5 @@
+Rest request:
+    ->Javascript code constructs an HTTP request.
+    ->Adds endpoint API url and HTTP methods.
+    -> Includes necessary parameters of data.
+    ->Server data request and return response.
